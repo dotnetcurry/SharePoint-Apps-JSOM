@@ -1,0 +1,10 @@
+﻿/* Place custom styles below */
+table,td,#tblcategories{
+    border:double;
+}
+
+#dvMessage{
+    border:double;
+    height:50px;
+    width:100px;
+}

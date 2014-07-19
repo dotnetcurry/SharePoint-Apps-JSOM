@@ -1,0 +1,1 @@
+bin\Debug\LIST_CRUD_JSOM.wsp
